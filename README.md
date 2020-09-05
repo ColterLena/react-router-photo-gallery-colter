@@ -1,4 +1,4 @@
-# React Router Photo Gallery
+# React Router Photo Gallery: A React.JS App
 Get to know React Router by building yourself a small photo gallery site.
 
 ## Objectives
