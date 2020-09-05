@@ -1,4 +1,4 @@
-# React Router Photo Gallery Colter
+# React Router Photo Gallery
 Get to know React Router by building yourself a small photo gallery site.
 
 ## Objectives
